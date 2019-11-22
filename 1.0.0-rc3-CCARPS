@@ -1,0 +1,1140 @@
+Community Codex Adaptive RolePlay System v1.0.0-rc3
+by WizardSpire Games and the WizardSpire Community
+Last updated May 30, 2016
+Contents
+What is CCARPS? 2
+The Essentials 2
+Players . . . . . . . . . . . . . . . . . . . 2
+Game Master . . . . . . . . . . . . . . . 2
+Non-Player Characters . . . . . . . . . . 2
+Dice . . . . . . . . . . . . . . . . . . . . 2
+Target Numbers . . . . . . . . . . . . . 2
+Modifiers . . . . . . . . . . . . . . . . . 2
+Rolling for Success . . . . . . . . . . . . 2
+Degrees of Success . . . . . . . . . . . . 3
+Critical Success, Critical Failure . . . . 3
+Automatic Success . . . . . . . . . . . . 3
+Disposition . . . . . . . . . . . . . . . . 4
+Starting Points . . . . . . . . . . . . . . 4
+Starting Age . . . . . . . . . . . . 4
+Character Rank . . . . . . . . . . . 5
+Primary Attributes . . . . . . . . . . . . 5
+Secondary Attributes . . . . . . . . . . . 5
+Oddities . . . . . . . . . . . . . . . . . . 5
+Basic Oddities . . . . . . . . . . . 6
+Skills . . . . . . . . . . . . . . . . . . . . 7
+Basic Skill List . . . . . . . . . . . 7
+Character Creation Conventions . . . . 8
+Character Appearance . . . . . . . . . . 9
+Character Background . . . . . . . . . . 9
+Improving Your Character 9
+Point Assignment . . . . . . . . . . . . . 9
+Range and Reach Modifiers . . . . . . . 10
+Combat Modifiers . . . . . . . . . . . . 10
+General . . . . . . . . . . . . . . . 10
+Ranged . . . . . . . . . . . . . . . 10
+Melee . . . . . . . . . . . . . . . . 10
+Damage . . . . . . . . . . . . . . . . . . 11
+Mental . . . . . . . . . . . . . . . . 11
+Physical . . . . . . . . . . . . . . . 11
+Spiritual . . . . . . . . . . . . . . . 11
+Damage Levels . . . . . . . . . . . 11
+Collateral Damage . . . . . . . . . 11
+Damage Recovery . . . . . . . . . . 12
+Hit Location Chart . . . . . . . . . . . . 12
+Shot from the Hip . . . . . . . . . 12
+Called Shot Miss . . . . . . . . . . 12
+Critical Fail Wheel . . . . . . . . . 13
+Height-based Modifiers . . . . . . . . . . 13
+Dodge, Block, Parry . . . . . . . . . . . 13
+Base Movement Target Numbers . . . . 13
+Encumberance . . . . . . . . . . . . . . 14
+Disposition 14
+Base Odditites . . . . . . . . . . . . . . 14
+Technology Levels 15
+1
+What is CCARPS?
+Community Codex Adaptive RolePlay System, often
+referred to as its acronym, “CCARPS”, is an
+open source ruleset licensed under Creative Commons
+Attribution Share-Alike. This system has
+been developed to promote storytelling within a
+minimal ruleset. We believe that the game should
+be about the characters so the rules shouldn’t get
+in the way of the story. This is a Community
+Codex; players and developers alike can actively
+participate in the shaping and refinement of this
+rule system. It is adaptive; the base rules are
+meant to be a generic starting point that can
+support any style of gameplay and world. While
+the main goal is roleplay, the system is built in a
+character-centric way that can be used to power
+any type of gameplay that involves tracking player
+statistics.
+While the rules here are complete and you can play
+as-is, this is just the Base Ruleset. It is meant to
+be used alongside an existing game world and/or
+campaign. This means that we have not included
+any game content within these pages.
+The Essentials
+Players
+Players are the main characters in a role-play
+adventure story. Players drive the story through
+actions and and interactions with the game story.
+Every player adds value and interest to the game
+and together they help write the story.
+Game Master
+The Game Master is the narrator, tour guide, and
+final word in all story related matters. The most
+important job of a game master is to guide and
+influence the character in ways that move the
+game story along. A good game master must be
+prepared, decisive and above all else flexable. No
+matter where the Game Master wants to go with
+the story the players, through no fault of their
+own, will derail the plans like a herd of stampeeding
+bovine crossing the great trans-continental
+rail road.
+Non-Player Characters
+Non-Player Characters or NPCs are the creatures
+and people the players interact with in the game
+story. The Game Master handles all actions, contests,
+and relations for all of the NPCs the Players
+will encounter.
+Dice
+CCARPS exclusively uses six-sided dice. Dice
+rolls are indicated by appending a “d” after the
+number of dice; “4d” means “four six-sided dice.”
+Each player will utilize between two and five dice
+in an attempt to roll as low as possible. The
+number of dice a player rolls is determined by the
+character’s skill dice for an applicable skill.
+Target Numbers
+Any complex activity has an associated target
+number based on the difficulty of the task and the
+amount of time the character has to execute the
+task. Players use a number of dice to determine
+the outcome of these activities.
+Modifiers
+Attributes, Skills, and some Oddities have Modifiers,
+as will some situational details, and equipment.
+These Modifiers are used to alter a given
+Target Number. Situational modifiers are applied
+to the base Target Number by the Game Master
+before or as the Target Number is given to the
+player depending on the Game Master’s preference.
+The active character’s Modifiers increase
+the given Target Number. If it is a contested
+roll, the opposing character’s Modifiers reduce the
+Target Number. The larger the Target Number
+becomes, the more likely the active character will
+succeed.
+Rolling for Success
+There is only one dice-roll mechanic in CCARPS:
+a base Target Number is assigned, all modifiers
+are applied to the base Target Number, and dice
+are rolled in an attempt to roll lower than the
+Modified Target Number. This is achieved by using
+the two lowest dice in any dice roll set. This
+applies to all rolls made by a Player, or Game
+2
+Master. The Game Master makes rolls for game
+environment conditions, and all NPCs in an encounter.
+A Target Number is the base difficulty
+for performing an action under the current situational
+conditions. Modifiers do not affect dice
+rolls only target numbers. All modifiers from
+weapons, armor, and skills must be accounted for
+and the target number adjusted before the player
+rolls any dice for the given action.
+Your character is sneaking around (base target
+number 3) in a dark (situational modifier +1) and
+unfamiliar place (situational modifier -2). Your
+character has a “Stealth” skill with a modifier
+of 3 and quiet shoes with a Modifier of 1. The
+base Target Number to sneak undetected is a 3 the
+Game Master will add in the situational modifiers
++1 for dark -2 for unfamiliar and call out a Simple
+Target Number of 2. You add your character’s
+modifiers, Stealth 3 and Quiet Shoes 1 to the Simple
+Target Number 2 for Skilled Target Number
+of 6; you must roll under a 6. Your novice level
+for Stealth gives you 3 dice. you roll 3d and get
+a 3, 2, and 4. Adding up the two lowest dice, the
+result is 5. Your character is successfully stealthy.
+A patrolman walks nearby, which contests your
+active “Stealth” skill. The Simple Target Number
+is equal to your success roll of 5. The patrolman
+has a “Detect” skill modifier of 3, which makes
+the Modified Target Number an 8. You call out
+your defensive action and make your character
+stop moving to push the target number down by
+1 making the Opposed Target Number a 7. The
+Game Master rolls 3d for the patrolman and gets
+a 5, 6 and a 2. Remembering that the lowest two
+dice are the only ones that matter, they are added
+(2 + 5) for a total of 7. The patrolman fails to
+detect your character as he walks by and moves
+out of sight.
+CCARPS has three types of Target Number modification:
+• Simple Target Number: Base Target Number
++ situational modifiers.
+• Skilled Target Number: Simple Target Number
++ your character’s applicable Modifiers
+• Opposed Target Number: Skilled Target
+Number - opposition’s applicable Modifiers
+Degrees of Success
+There are some situations where an Oddity or
+Skill’s action will depend on the Degree of Success.
+To find the Degree of Success, subtract the
+successful roll from the Target Number. The difference
+is the Degree of Success.
+Coming across a stray dog, you use your character’s
+“Animal Empathy” skill to assess its hostility.
+following the action process, The Simple Target
+Number is 4 your character has 2 points in animal
+empathy which gives her a modifier of +1
+and 2d, the Skilled Target Number is 5. You roll
+a 2 and a 1 for a final roll of 3. Subtract 3 from 5
+to find Your character’s Degree of Success: 5 - 3
+= 2, which is enough for your character to know
+that the dog is happy, but has most likely lost its
+owner.
+Critical Success, Critical Failure
+A Critical Success happens when all dice in a roll
+set are 1. The more dice you roll, the more often
+your character will succeed, but the harder it will
+be for your character to get a Critical Success. A
+Critical Success means the action succeeds and
+has a better than expected result. The more
+dice in a set, the more amazing a critical will be.
+The Game Master has the honor of determining
+what “amazing” looks like, and what events will
+be triggered because of a critical success.
+Conversely, a Critical Failure happens when all
+dice in a roll set are 6. When you roll more dice
+your character will fail less often; therefore, it
+will become less likely that your character will
+critically fail. A Critical Failure has worse than
+expected results. The more dice in a rolled set,
+the more dangerous the Critical Fail will be. The
+Game Master has the misfortune of determining
+what “danger” will befall the player group, and
+what events will be triggered because of a critical
+fail.
+Automatic Success
+There are a lot of actions that characters will take
+that are trivial or common sense. These do not
+require a roll and are counted as automatically
+succeeding. The only time these will need a roll
+are when there are adverse conditions (weather,
+battle, impeding injury, etc.) or when the Game
+Master says.
+Walking in a straight line on a summer day would
+have no roll. Attempting to walk in a straight line
+on sheet ice during a snow storm would require
+3
+a roll to keep footing and a roll to maintain the
+correct direction of travel.
+Disposition
+The sum of a character’s Attributes, Health, Oddities,
+and Skills, is referred to as their Disposition.
+A character’s Disposition is tendency to act in a
+specific way. Much like the real world, a character’s
+skill set, demeanor, and overall health oftentimes
+shines through in their personality. This
+can be said as generalizations for groups, communities,
+and nations as well.
+• Attributes are the core of a character. They
+greatly influence everything about the character.
+The base Attributes are averaged into
+secondary Attributes and converted into modifiers
+through a personal/skill modifier table
+to make Skill creation and use easier, as well
+as to more accurately reflect the nature of
+attributes as a complex system.
+• Health Meter is the sum of a character’s
+Mental, Physical, and Spiritual health. The
+healthiest characters have nothing checked
+or marked in these boxes.
+• Oddities are traits that are taken at character
+creation and provide a defining factor
+in a character’s strengths and weaknesses,
+while also providing fuel for creative roleplay.
+Oddities have a permanent passive effect on
+the character; they may boost skill sets, but
+may come at a cost of Health detriments (or
+the other way around).
+• Skills are learned abilities that a character
+possesses. These are what a character knows
+how to do. # Character Creation # It is
+great to sit down to play a game with wellwritten
+characters. It is even better when
+the character’s attributes and abilities are reflected
+in the story. Many players and game
+masters take pride in designing the characters
+and adventures they play, from the environment
+and backstory to appearance, to
+attitude and social disposition. They create
+interesting characters with compelling and
+intriguing lives. In these stories the characters
+are center stage and the Game Master
+is the guide.
+Starting Points
+Every character, whether it is the Player or NPC,
+has starting points. These are the points that you
+will spend on Oddities and Skills. In order to be
+ready for the game, the sum of the points spent
+on Oddities and the character’s Skills points must
+equal the sum of the Starting primary attribute
+Points for your character. The ability to sum and
+balance the character sheet is one feature that
+lends itself to translating the CCARPS system
+into other forms of media such as video games. A
+character’s starting points are equal to the sum
+of the character’s primary attributes.
+Starting Age
+Starting Age is used to help add variety to the
+group’s characters, where physical growth and
+past experience are taken into account. A character’s
+starting age adds depth and a sense of
+connection between the character, their past, and
+their place in the game world. The first step
+in character creation is to choose the character’s
+starting age. Second step is to find the character’s
+starting age on the Starting Age Table to determine
+how many dice to roll for each attribute.
+Figure 1: Starting Age in Years
+The third step is rolling your character’s Primary
+Attributes. In general players roll five sets of
+dice according to the Starting Age Table and
+record each set in one of the primary attribute
+boxes. The primary attributes each have two
+boxes associated with them. The Accumulator
+box, and the Points box. The Accumulator box
+is used for storing adventure points during game
+play and is labeled Acc. see Improving Your
+Character for more information. The Points box,
+labeled Pts., is used to record the initial values
+for the character’s primary attributes.
+4
+Character Rank
+Character rank is the sum of the character’s Primary
+Attributes. After the player has rolled the
+character’s primary attributes he or she willl sum
+all of the primary attributes together and use
+this table to determine the starting rank of their
+character.
+• Beginner: 75 points
+• Novice: 90 points
+• Advanced: 105 points
+• Heroic: 120 points
+• Epic: 135 points
+• Legendary: 150 points
+Game Master Note: If you want to boost characters
+rank, have the players roll extra dice sets
+to replace lower rolls, or have players re-roll all
+ones when rolling primary attributes to increase
+the total value for attribute points. Alternatively,
+the Game Master can assign a number of points
+that the player may distribute to boost their stats
+to more closely match the rank required by the
+adventure. See Character Creation Conventions
+at the end of this section for alternate methods of
+rolling up characters.
+Primary Attributes
+CCARPS characters have five Primary Attributes:
+• Strength (S): Capability of producing
+and/or withstanding great physical force.
+• Dexterity (D): Skill in performing tasks,
+especially with the hands.
+• Constitution (C): A person’s physique or
+temperament; the general health of a person.
+• Intelligence (I): The faculty of thinking,
+judging, abstract reasoning, and conceptual
+understanding.
+• Willpower (W): The unwavering strength
+of will (intention, desire) to carry out one’s
+wishes.
+Secondary Attributes
+The secondary attributes are average combinations
+of the primary attributes. Once the secondary
+attribute base is calculated use the skill
+modifier table to determine the secondary attribute
+modifier. Skills are based on secondary
+attributes as are any action rolls where a character
+does not have a related skill.
+Unskilled Action Rule Unskilled action rolls
+always use 2d, are limited to simple actions, are
+immune to critical success and failure, and are
+subject to all situational modifiers. Characters
+may not use the unskilled action rule to perform
+complex actions. A Complex Action is any action
+that is composed of two or more simple actions.
+Complex Action example: firing an arrow from
+a bow; knock an arrow, draw, aim, and release.
+This would require 4 separate dice rolls under the
+unskilled action rule, one for each of the simple
+actions. To successfully fire the arrow, the character
+would have to succeed on all of the rolls in
+succession for the simple action steps to complete
+the complex action required to fire a bow. A failed
+roll would cause the character to start the whole
+process over from the beginning.
+• Charisma (CHA): Personal charm or magnetism,
+as determined by the health, and will
+of the character. Average of Willpower and
+Constitution. (W + C) / 2
+• Speed (SPD): The rate of motion or athletic
+action. Average of Strength and Dexterity.
+(S + D) / 2
+• Reflex (RFX): An automatic response to
+stimulus which does not require mental processing.
+Average of Dexterity, and Intelligence.
+(D + I) / 2
+• Lift (LFT): To exert the strength for raising
+or bearing. Average of Constitution and
+Strength. (C + S) / 2
+• Perception (PER): Conscious understanding
+of something; to be aware of. Average of
+Intelligence and Willpower. (I + W) / 2
+Oddities
+Oddities may only be taken at character creation.
+Oddities are used to gain advantages and to make
+trade off’s to provide flexibility and role-play interest
+in character options, in other words, Oddities
+add “character” to your characters. Your Game
+Master may modify a character’s Oddities based
+on role-play events or extraordinary situations.
+Oddities may make permanent Health changes
+5
+based on the description of the oddity, or Game
+Master’s discretion.
+The general rule with Oddities is that each Oddity
+must have a balanced cost and benefit. Some
+oddities have a positive effect and cost points,
+while others have a negative effect and give points.
+Use your best judgement when selecting oddities
+for your character, but be reasonable a character
+with too many oddities or conflicting oddities can
+be difficult or impossible to role-play accurately.
+Basic Oddities
+During character creation, there are two Oddities
+that are reccomended. These are Wealth and
+Social Influence. There are no Modifiers with
+these; instead, they help give characters some
+“roots” into the game world. If no Wealth or
+Social Influence is taken, it is assumed they are
+Middle Class with no contacts out of the ordinary.
+Wealth is a measure of a character’s accumulation
+of material value, including things such as
+property (home, car, horses), finery (cloths, tools,
+weapons), etc. and defines the character’s starting
+currency according to the Wealth Table. The
+points spent or given are meant to represent the
+character’s perception of wealth and their ability
+to move in social circles. A person raised with
+a filthy rich lifestyle would stand out like a sore
+thumb on skid row, just as a dirt poor person
+would at a country club.
+Figure 2: Wealth and Standing
+Social Influence is measured by the number of
+people you have in your contact list, and the quality
+of the contact relationship eg. An Acquaintance
+(a low quality contact) will accept your call
+and listen to your request, they may even provide
+information if asked the right question but the
+information has a 50% chance of being inaccurate.
+A Friend (an average contact) is like a good
+friend, you can trust them to tell you what they
+know but they have limited access to high level
+information, and generally will not get into harms
+way for you. A Confidant (a high quality contact)
+will have good access to information and be trustworthy
+and reliable and will defend you at his or
+her own risk up to but not including risk of his or
+her own life. Conversely you can choose contacts
+that are detramental to your character. eg. the
+Antagonist is most often hyper competative in
+all your dealings and may even enjoy seeing your
+character struggle through a problem they coaxed
+or goaded your character into. A Nemesis will
+actively seek ways to interfere with your character
+and their dealings up to but not limited to
+setting you up for a major setback or even your
+hapenstance death. An Arch-Nemesis is the most
+dangerous type of contact the Arch-nemesis will
+actively plot your character’s demise often in the
+most diabolical way. At character creation your
+character can take a maximum of three contacts
+and your character cannot spend or receive more
+than 15 points in total unless the Game Master
+says otherwise.
+• -15 points: Arch-nemesis
+• -10 points: Nemesis
+• -5 points: Antagonist
+• 0 points: No-one out of the ordinary.
+• 5 points: Acquaintance
+• 10 points: Friend
+• 15 points: Confidant
+Speach Impediment Character has an obvious
+difficulty speaking. Common impediments include:
+Studder, Mute, Cluttering (speaks too fast,
+often running words together.) * -50 points: Extreme
+- Character cannot communicate verbally
+due to impediment * -25 points: Severe - Character
+has -9 to all deplomacy and influence checks
+* -10 points: Moderate - Character has -3 to all
+deplomacy and influence checks * -5 points: Mild
+- Character has -1 to all deplomacy and influence
+checks
+Natural Resistance (Specify Type) Character
+is naturally resistant and suffers reduced influence
+from the specified type. (examples: Poison,
+Fire/Heat, Acid, etc.) * 50 points: Immunity
+suffer no effect from source type * 25 points: Reduce
+all effect from source type by 6 * 15 points:
+Reduce all effect from source type by 3 * 5 points:
+Reduce all effect from source type by 1
+Alergy (Specify Substance) Character suffers negatively
+from contact with the specified substance.
+(examples: Nuts, pollen, Shellfish, etc.) * -50
+6
+points: Extreme - Character will suffer an imediate
+and life threatening reaction on contact with
+the Specified substance. * -25 points: Severe -
+Character applies -9 to all target numbers for 3
+hours after contact with the Specified substance.
+* -10 points: Moderate - Character applies -3 to
+all target numbers for 1 hour after contact with
+the Specified substance. * -5 points: Mild - Character
+applies -1 to all target numbers 20 minutes
+after contact with the Specified substance.
+High Pain Tolerance * 50 points: Ignore all
+Mental modifiers, Will not lose unconsiousness
+from pain or mental trauma. * 25 points: Ignore
+all Mental modifiers due to damage * 10 points:
+Ignore the first 3 points of Mental modifiers due
+to damage * 5 points: Ignore the first 1 point of
+Mental modifiers due to damage
+Player Note Further oddities can be found in the
+world content framework, and in the world content
+for the adventure you are playing.
+Skills
+Skills determine what your character can do as
+well as what they know. Adding one point to a
+skill is the equivalent of the character experimenting
+with new ideas, or reading a basic instruction
+manual, or taking an introductory lesson from
+one who knows the skill at an advanced level or
+higher. This gives the character the ability to use
+the skill to perform a complex action with a single
+die roll. Using a skill to perform a Complex Action.
+example: firing an arrow from a bow; knock
+an arrow, draw, aim, and release. one point in
+Archery skill would alow the character to make
+one roll to determine the result of the four simple
+acctions required to fire an arrow.
+Each skill has an Attribute associated with it.
+These attributes are skill requirements; at character
+creation no skill may have points that are
+greater than the associated attribute modifier.
+For example, if your Charisma Modifier is +2,
+you cannot have more than 2 points in your Intimidate
+skill at character creation.
+Before a character can attempt to use a skill they
+must apply at least one point to it for it to be
+useful. To use a skill without any proficiency see
+Unskilled Action rule under Secondary Attribute
+section.
+Basic Skill List
+Martial Arts Grappling (LFT) Grappling
+includes techniques, maneuvers, and counters
+used against an opponent in order to gain a physical
+advantage, escape from, force to submit, or
+cause injury or death. Grappling does not include
+striking or the use of weapons.
+Street Fighting (SPD) Street fighting is handto-
+hand combat in public places, between individuals
+or groups of people using primarily punching,
+kicking, and throwing attacks. may include use
+of weapons of opportunity eg: chair, bottle, dirt,
+etc.
+Hand-to-Hand Combat (RFX) Hand-tohand
+combat is any formal discipline of lethal
+or non-lethal physical confrontation between two
+or more persons at very short range that does not
+involve the use of weapons. A Hand-to-hand combat
+discipline is any system that is composed of
+precise physical strikes to inflict optimal trauma
+to subdue or kill an opponent.
+Deplomacy and Influence Acting (CHA)
+The work of an actor or actress, which is a person
+in theater, television, film, or any other story
+telling medium who tells the story by portraying
+a character and, usually, speaking or singing the
+written text or play.
+Persuasion (CHA) The practice of convincing
+someone to do or believe something.
+Intimidation (CHA) Frighten or overawe someone,
+especially in order to make them do what
+you want.
+Subversion Escape (RFX) The craft of evading
+capture, or extricating ones self from forced
+confinemnt or control.
+Stealth (RFX) The practice of cautious and
+surreptitious action or movement so as not to be
+seen or heard.
+Lock Picking (RFX) The craft of unlocking
+a lock by analyzing and manipulating the components
+of the lock divice without the original
+key.
+Athletics Acrobatics (SPD) The performance
+of extrordinary feats of balance, agility,
+and motor coordination. Diving, walking on a
+tight rope or balance beam, swinging on a trapeze,
+etc.
+7
+Climbing (SPD) To scale a surface vertically
+using the hands and feet.
+Swimming (SPD) The ability to propel ones
+self through water (or other liquid-like surfaces) by
+natural means, without the aid of a solid surface
+or object.
+Deduction Tracking (PER) The craft of following
+tracks or clues left from physical movement
+through the environment.
+Observation (PER) The action or process of
+looking at something or someone carefully or in
+order to gain information.
+Search (PER) The practice and knowledge of
+systematically reviewing the contents of a container
+such as a room, box, or article of clothing.
+See world content supplement for world specific
+skills
+Character Creation Conventions
+The conventions used to roll up characters for your
+adventure will influence the feel of the adventure.
+Some methods are more Hard Core than others
+while some are down right campy. None of the
+methods you choose are necessarily bad or good
+just different. CCARPS is designed to be adaptive
+so that it can naturally support whatever style
+you and your group wish to play. We would like
+to provide some examples for you to think about,
+these are not to be considered an extensive list
+and by no means exhaustive.
+• Hard Core: this method will generally create
+characters that will require many hours
+to build and is not recommended for the faint
+of heart. For your Hard Core roll play, roll
+your dice according to your age chart and
+record them in the order they are rolled directly
+onto the character sheet. First roll =
+Strength, second = Dexterity, third = Constitution,
+fourth = Intelligence, and fifth =
+Wisdom. No re-rolls; limit the number of
+Oddities to five and require the sum of all
+oddities to = 0; limit the maximum starting
+skill points for any one skill to the associated
+Attribute’s modifier.
+• Fantasy: this method will create characters
+that are moderately easy to play. It
+is a good choice if you like a serious story
+Figure 3: Modifier Table
+8
+but moderately challenging game play. For
+Fantasy style, roll five sets of dice according
+to the Age Table, and record them on the
+back of your character sheet. Assign each set
+according to your preference for the type of
+character you wish to play. Limit the number
+of Oddities to seven and the maximum starting
+skill points to two times the associated
+Attribute’s modifier.
+• Campy: this method is a great way to play
+a quick game loaded with silliness and amazingly
+funny antics, but is not a good campaign
+setting, as normally the rewards are
+handed out liberally to support the entertainment
+value for the players. For a campy
+game, roll 10 sets of dice according to the
+Age Table, re-rolling all ones. Record your
+best five sets in any order you choose. Limit
+the number of Oddities to the system maximum
+of ten. There is no limit on starting
+skill points.
+Wealth and Influence count as Oddities so they
+will each take up a slot if they are taken. If they
+are not taken wealth will only be used to determine
+your starting currency, and Social influence
+will have no effect on your character.
+Character Appearance
+The appearance of a given character is generally
+up to the player. However, it is a good idea to
+use character Attributes, Oddities, and Skills as
+guidelines. The range of possible values in a base
+Attribute is 5 to 30 for an adult character (21 years
+or older). Just as a person with an Intelligence of
+5 would be seen as an imbecile, a person with 5 in
+Charisma would be a rather unlikeable fellow. It
+would be unusual for a character who is perceived
+to be strong to have low Strength. It should be
+noted that CCARPS characters range the average
+Human height: from 4 feet 6 inches to 7 feet. Any
+other heights are up to the Game Master.
+Character Background
+This is pretty much open to player creativity.
+Background story can go a long way toward identifying
+a character’s habits of mind, body, and
+spirit. This can aid the player in making good
+believable decisions and greatly enhance the role
+play experience as well as add to the group dynamics
+so put some thought into this part. Take
+this opportunity to be creative and make your
+character interesting. The character’s Disposition
+is a great thing to keep in mind when writing
+their story. See Disposition section for more information.
+Also you may want to give some thought
+to the world your character exists in, this will
+help you to fit in and guide you in role playing
+your character.
+Improving Your Character
+Points are earned through adventuring. As a general
+rule, each player should earn an average of
+between 10-15 points per session that they actively
+roleplay. Commonly points can be earned by: performing
+an action that directly furthers the plot;
+rolling a Critical Success on a plot-related action;
+performing an action that helps the group at great
+risk to self; remaining in character when there is
+a great pressure to break the fourth wall, etc. It
+is up to the Game Master, how many points each
+character receives, and when. Character teams
+that work together to deliberately coordinate their
+actions to further the plot (without having hints
+given by the Game Master) generally obtain more
+points than ones that are always squabbling.
+Point Assignment
+Points must be assigned within the session they
+are given; points cannot be stored up. At the
+beginning of any session where a character has
+unassigned points, those points must be assigned
+to a Skill or into an Attribute accumulator before
+play begins.
+Once points are assigned to a skill they may not
+be moved or re-assigned. Skills are increased
+by adding points to them. Modifier bonuses are
+gained according to the Modifier Table (see Modifier
+Table ). The maximum points a Skill can have
+is 36. New Skills can be learned through a trainer,
+reading the appropriate book, or similar learning
+adventures. Even when learning a new Skill this
+way, one must use the points given during that
+session. For example:
+Bob the Bouncer wants to add a combat skill to
+gain a block/parry advantage for when he has to
+confront unruly people. At the end of the session,
+Bob has earned 3 points; he either locates
+9
+a trainer or self-teaches by reading a book. The
+player writes the skill name into the skill list, applies
+all three points he has earned to the new
+Skill, locates and records the modifier and dice
+for a skill with 3 points.# Combat # Combat is
+represented as a series of actions. All actions are
+rosolved throught skill tests. Each action has a
+base Target Number that is determined by a difficulty
+table. The base target number is modified
+by the Game Master for Sutuational Difficulty,
+the active Player for Character Skill Modifiers,
+and the opponent for Defensive Skill Modifiers.
+• Situational modifiers can be positive or negative
+depending on the current conditions.
+• Active Skill modifiers are always positive.
+• Defensive Skill modifiers are always negative.
+The combat sequence is as follows:
+• Active Character Initiates combat by describing
+their intended action.
+• Game Master determines the base target
+number and applies the situational modifiers.
+• Opposing Character subtracts his or her reflex
+modifier and defencive skill modifiers.
+• Active Character makes a skill test and subtracts
+his or her skill modifiers and weapon
+attack Modifiers.
+• Upon success, the Active Character sums the
+weapon damage and any damage Modifiers.
+• Active Character reports the number and
+damage type to the Opposing Character.
+• The Opposing Character subtracts their appropriate
+resistances from the damage.
+• The Opposing Character records the damage
+in the related damage type box.
+If the damage is below one, no marking is done.
+See Damage Overload below if damage exceeds the
+number of available boxes.
+If the attack roll was a Critical Success the final
+damage staging number is doubled. Critical Failure
+may result in the attackar harming self or any
+friend nearby (at Game Master’s discretion).
+Range and Reach Modifiers
+Range and Reach are how far a character can
+use projectiles or hit with melee weapons. Each
+weapon has its own range or reach, and will have
+the distance number and units listed for each section:
+Short, Medium, Long, Extreme. These are
+represented in the character sheet in the weapon
+section as S, M, L, E.
+Combat Modifiers
+Combat Modifiers are degrees of difficulty when
+using projectiles or hitting with melee weapons.
+These help appropriately change the base Target
+Number into something more fitting to the
+situation. The harder the action, the lower the
+Modifier. Some things, such as aiming or charging
+toward an enemy may normally gain a bonus
+Modifier, instead.
+General
+• Character is making a Called Shot: -4
+• Character is concentrating before attack: cumulative
++1 per turn, up to three turns. This
+includes aiming, meditation, and other mental
+and perception preparations.
+• Character is wounded: Already applies to
+everything, since Health Meter Modifiers are
+global to the character
+• Character’s weapon has longer reach: Modifier
+is difference in Reach
+• Character only needs to make contact, not
+necessarily inflict damage: +2
+• Character is attacking multiple targets: -1
+per target
+• Visibility is obstructed: Depends on the situation(?)
+Ranged
+• Character is running while attacking: -2 to
+-4, depending on situation
+• Character is in melee combat: -3
+• Character is shooting from cover: -1 to -3
+depending on type of cover(?)
+• Character is shooting blindly: -6
+• Target has partial cover: -1 to -3 depending
+on amount of cover
+Melee
+• Character is charging into attack: +2
+• Character has the superior position: +2
+• Target is prone: +3
+10
+Damage
+The damage system is based on the ancient
+Greek’s beliefs regarding human existence, where
+a person was measured by the strength and health
+of their mind, body, and spirit. The optimal case
+would be to have all three in equal amounts such
+that they could be represented by an equilateral
+triangle: Mental -> Physical -> Spiritual ->
+Mental. Dealing and taking damage is handled
+through a series of check boxes. There are ten
+boxes for each of the three types of health. Damage
+is counted by checking a number of boxes
+equal to the amount of damage dealt starting at
+the damage level noted by the weapon’s damage
+type and rating, and all boxes below that level.
+If a character has already taken damage beyond
+the indicated level, the new damage is counted by
+checking off boxes on the next available damage
+type until all the damage is applied. Damage
+levels are Light, Moderate, Heavy, and Deadly.
+In CCARPS damage comes in three forms; Mental,
+Physical, and Spiritual.
+Damage is represented as a series of three connected
+bars of ten boxes each. Box ten on the
+Mental bar is connected to box one on the Physical
+bar, and box ten on the Physical bar is connected
+to box one on the Spiritual bar. The tenth box of
+Spiritual is connected to box one of the Mental
+bar.
+Damage overload occurs when the normal damage
+bar for the given damage index is full, and
+more damage of the same type is dealt to a character.
+The overload damage is then applied to
+the next damage meter. When a character fills
+an entire damage bar, that character will lose
+consciousness.
+Once a character is unconscious, the player must
+roll 2d against their Charisma Modifier as their
+Basic Target Number. On a failure, the character
+takes 1 point of damage, following the order of
+damage overload. A character is permanently
+dead when all three bars are filled completely.
+Any character that has two bars of damage filled,
+they cannot be revived without intervention of a
+trauma surgeon (or other world and/or campaignspecific
+skills).
+Damage types include Stun, Shock, Bludgeon,
+Cutting, Piercing, and Energy (some worlds call
+this “magic”).
+Mental
+Mental Health is the overall well-being of a character’s
+mental state. Mental damage can be caused
+by a variety of things, from a punch to the face to
+a flash bomb or electrocution. Spiritual damage
+overflows into Mental Health.
+Physical
+Physical damage comes primarily from physical
+attacks, but can also be caused by Mental Health
+overload.
+Spiritual
+Spiritual damage is primarily caused by attacks of
+wit (interrogation, debate, etc.), but can also come
+from energy-based (or magical) attacks. Physical
+Health damage overflows into spiritual health.
+Damage Levels
+Damage is represented by three sets of ten boxes.
+Each damage type (as mentioned above) has
+its own Damage Meter Bar. Damage levels are
+separated into Light, Moderate, Serious, and
+Deadly. When a character reaches the first box
+on a given meter, that character will take a -1
+penalty to all Target Numbers. At the third box
+the character takes a -2 to all Target Numbers.
+At the sixth box the character takes a -3 to all
+target numbers.
+These penalties are cumulative. If a character has
+registered three physical and six mental damage
+the total penalty will be -1 + -2 + -3 for the
+mental damage plus -1 + -2 for a total penalty of
+-9. These penalties will remain until the damage
+is healed below the given level.
+Figure 4: Damage Meter Bar
+Collateral Damage
+In the case that a player misses an attack, the
+Game Master rolls to hit all logically available
+targets, once for each possible target.
+11
+Figure 5: Collateral Damage
+Damage Recovery
+Mental Health heals over time; Physical Health
+heals with medical attention; Spiritual Health
+requires an act of faith, affirmation, or some other
+type of belief, to heal.
+Mental Health recovery time is equal to 10 minutes
+times the number of damage boxes checked
+in all three damage indicators. A character with
+5 boxes of Mental, 2 box of Physical, and 1 box of
+Spiritual, marked. 5 + 2 + 1 = 8. 8 * 10 minutes
+= 80 minutes. After that time, or whenever the
+Game Master says (in the event they speed time
+up), all Mental Health boxes are cleared.
+MH Recovery = 10 * # damage boxes filled
+Physical Health can be recovered by the application
+of first aid for up to 3 boxes (first aid can
+only be used once for each wound, A field medic
+with a standard field medical kit, can heal up to
+6 boxes once for each wound. The character can
+to be treated by a doctor in a hospital or medical
+clinic to heal up to 10 boxes. In any case, the
+recovery time is 10 hours times the initial number
+of damage boxes checked in all three damage indicators,
+divided by the Tech Level of the character
+rendering aid.
+Spiritual Health is the most difficult to regain.
+Each point of Spiritual damage marked will require
+a number of hours spent in the act of
+meditating, praying, or otherwise feeding the
+soul/spirit to heal. The amount of time is equal
+to 10 hours times the number of Spiritual Health
+boxes marked. The spiritual rebuilding exercise
+must be coordinated through the Game Master
+and must be in accordance with the character’s
+stated belief system.
+Hit Location Chart
+When a player designates a target and launches a
+projectile, the player must roll below the modified
+target number in order to hit. If the player rolls
+above the target number the projectile completely
+misses.
+Figure 6: Hit Locations
+Shot from the Hip
+In the case of a hit without a called shot, the gm
+rolls two hit dice to determine where the projectile
+hits the target. (See hit location chart.)
+Called Shot Miss
+When a player designates an area to hit on a
+target, the player must roll below the modified
+target number to hit. if the player’s roll is equal
+to or greater than the modified target number the
+players shot will miss. As you may have guessed,
+this is where Sir Issaic Newton’s first law comes
+in: “An object in motion tends to stay in motion”,
+etc. etc. so that thing; fist, arrow, bullet must go
+somewhere. The following chart and 1d6 will help
+you figure out what force will cancel the motion
+of the object.
+Imagine a circle cut into 6 slices overlaid on the
+target with its center point on the called location.
+Now roll 1d and count the pie slices clockwise from
+the top to determine which direction the miss
+12
+took. Newton’s Second Law is “the relationship
+Force equals mass times acceleration (F = m * a).
+Use the difference between the Modified Target
+Number and the player’s roll to determine the
+magnitude. Then, let Sir Isaac prove his stuff by
+knocking the F out of the projectile, and into the
+unintended location. The creativity gets going
+when applying Newton’s Third Law:”To every
+action there is always opposed an equal reaction."
+Critical Fail Wheel
+In the case of a Critical Fail, we have a Critical
+Fail Wheel. The Active Character is in the
+middle of the wheel (as shown below) and any
+nearby characters, both friendly and enemy, will
+fall within a certain number. The Active Character
+rolls 2d, with the sum being the direction
+in which their action went. This works for both
+ranged and melee combat.
+Figure 7: Critical Fail Wheel
+Height-based Modifiers
+Height modifiers are calculated by taking the
+Opposing Character’s Height (rounded) in feet
+and subtracting the Active Character’s height
+(rounded) in feet. For example, if the Active
+Character is 7 feet tall and the Opposing Character
+is 3, the Active Character will have a -4
+Modifier to hit and a +4 Modifier to damage.
+However, when the Opposing Character becomes
+Active, they will have a +4 Modifier to hit and
+a -4 Modifier to damage. This helps prevent giant
+characters from always being able to hit tiny
+characters as if they were equal in height.
+Figure 8: Target Size Chart
+Dodge, Block, Parry
+• *Defender’s Rule:
+• Dodge is to evade an attack avoiding all damage
+on success.
+• Trade off:* defender must forgo any actions
+including simple actions until defenders next
+turn.
+•
+• Block is to absorb an attack with an object
+other than the intended target of a given
+attack
+• -4 to repose attack and -2 damage on success.
+•
+• Parry is to deflect an attack by exerting a
+complementary force to move the impact to
+a more favorable location
+• +2 to repose attack, requires an armed melee
+skill, cannot use called shot.# Movement #
+Base Movement Target Numbers
+Under non-stressful situations, walking generally
+doesn’t require a roll. This is a base Modifier
+Table for reference when a character has impediments,
+such as high encumberance, stress, or
+during extended combat.
+13
+Figure 9: Basic Movement Target Numbers
+Encumberance
+Player characters can carry mass equal to 10 times
+their Lift modifier. Every pound over the maximum
+adds -1 to all physical actions. When a character’s
+Encumberance Modifer brings the overall
+action Modifier below 0, that character must roll
+to succeed on simple actions such as walking upright,
+turning around, stopping quickly, etc.
+Armor also affects freedom of movement, depending
+on armor type and class.
+Disposition
+A character’s Disposition is the sum of their
+character sheet. Oddities make up the largest
+and most lasting permanent changes to a character;
+they give permanent bonuses and detriments.
+They are the only part of character creation that
+can modify any aspect of a character, including
+(especially) Attributes, Resistances, and the
+Health Meter.
+Base Odditites
+Militaristic: “Might makes right” is the motto.
+The character has an ideology that the military is
+the foundation of a society’s security, thus being
+the most important aspect.
+Figure 10: Disposition Map
+Opportunistic: The practice of taking advantage
+of any situations or people to achieve an
+end, often with no regard for principles or consequences.
+Despotic: Government by a singular authority,
+either a single person or tight-knit group, which
+rules with absolute power, especially in a cruel
+and oppressive way.
+Pacifistic: The doctrine that disputes (especially
+between countries) should be settled without recourse
+to violence.
+Heroic/Just: Regard for others, both natural
+and moral without regard for oneself; devotion to
+the interests of others; brotherly kindness; selflessness;
+contrasted with egoism or selfishness.
+Libertine: One who is freethinking in all matters.
+Neutral: Neither beneficial nor harmful; this is
+the default state of all characters.
+The oddity definitions above are licensed under
+Creative Commons Attribution-ShareAlike 3.0 Unported
+and taken from Wiktionary.
+14
+Technology Levels
+A character’s technology level helps define level
+adjustments and target numbers when interacting
+with any technology, from a basic tool (like a
+club or lever) to a super computer on an interdimensional
+time machine.
+Use the list below to determine target numbers.
+A general rule is to add the tech level difference to
+the target number if the technology is at a lower
+level than the character’s tech level and subtract
+from the target number if the technology is at a
+higher level.
+Figure 11: Technology Levels
+Level, Age
+00, Instinct
+01, Stone
+02, Bronze
+03, Iron
+04, Historical
+05, Enlightenment
+06, Industrial
+07, Mechanical
+08, Atomic
+09, Space
+10, Information
+11, Cognative
+12, Genetic
+13, Stelar Expansion
+14, Nanotechnology
+15, Quantum
+16, Terraform
+17, Faster than Light
+18, Galactic Expansion
+19, Temporal
+20, Ascension
+Contributors
+This book is a collaborative effort. The following
+is a list of contributors.
+Sina Mashek Designer & Developer
+Robert Kroker Designer & Developer
+Tea Lard Designer & Developer
+Stuart Dempster Graphic Artist, Designer
+Jake Waller Developer, Play Tester
+Tristy Hopkins Developer, Play Tester
+Timothy Martin Developer, Play Tester
+Nathan Roemmich Play Tester
+Anna McNutt Play Tester
+Gibson Starkweather Play Tester
+Jason Slater Play Tester
+Howard Baird Play Tester
+Joshua Curtiss Play Tester
+Sam Rogge Play Tester
+Alex MacKinen Play Tester
+Kazuhiko Griffon Play Tester
+https://wizardspire.com/ccarps
+https://github.com/WizardSpire/ccarps
+15

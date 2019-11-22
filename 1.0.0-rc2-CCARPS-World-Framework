@@ -1,0 +1,412 @@
+CCARPS World Framework v1.0.0-rc2
+WSG Community, by WizardSpire Games and the WizardSpire Community
+Last updated January 9, 2016
+Contents
+Oddities 2
+Oddity Creation Guide . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Oddities List . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Skill List 5
+Armor 10
+Weapons 11
+Melee Weapons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Projectile Weapons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Ballistic Weapons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Explosives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Skill & Oddity Attribution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+1
+Oddities
+Oddity Creation Guide
+Oddities are character traits that can be chosen by players at character creation or given by Game
+Masters during play as situations arise. Oddities define things like which hand the character is
+dominant in using for a particular task, and how curious or adventurois the character is.
+Each oddity has a positive and negative variant, and each variant can have an extreme and a moderate
+version. Generally each Oddity will have a name and a sub-name to determine the severity. Each
+Oddity will also have an associated point cost and modifier value or values. In the case there is a
+variant shown with a cost of 0 this is the assumed variant if none is taken specifically. In some rare
+cases the positive and negative modifier are determined by situational circumstances and the oddity
+will only have one variation. In these rare cases the point cost will never be 0.
+Oddities List
+Handedness The handedness of a character can influence his or her ability to perform tasks in the
+game world. For example a right handed person would recieve a detrament in any situation where an
+action requires manual dexterity of the left hand; an ambidextrous person would recieve no penalties
+to target numbers to perform the action in the same situation.
+Ambidexterous 25 points +2 modifier An ambidextrous person is able to do any task equally well
+with either hand.
+Cross-Dominance 10 points +1 modifier for matching tasks -1 for opposing tasks. Task handedness
+should be identified on the character sheet before an action is attempted, undefined actions recieve
+no bonus. Cross-dominance or Mixed-handedness is the change of hand preference between tasks.
+Right-Dominent 0 points +1 modifier for right handed actions, -1 modifier for left handed actions.
+Right-handed people are more skillful with their right hands when performing tasks. Left-Dominant
+-10 points
++1 modifier for left handed actions, -1 modifier for right handed actions. Left-handed people are more
+skillful with their left hands when performing tasks. Ambilevous -25 points -2 modifier on actions
+requiring nimble fingers or hands Ambilevous people demonstrate awkwardness with both hands.
+Balance balance is an ability to maintain the line of gravity (vertical line from centre of mass) of a
+body within the base of support with minimal postural sway. Uncanney balance exceptional balance
+average balance poor balance un balanced
+Personality http://en.wikipedia.org/wiki/Big_Five_personality_traits
+Openness to Experience (inventive/curious vs. consistent/cautious). Appreciation for art, emotion,
+adventure, unusual ideas, curiosity, and variety of experience. Openness reflects the degree of
+intellectual curiosity, creativity and a preference for novelty and variety a person has. It is also
+described as the extent to which a person is imaginative or independent, and depicts a personal
+preference for a variety of activities over a strict routine. Some disagreement remains about how to
+interpret the openness factor, which is sometimes called “intellect” rather than openness to experience.
+Curosity
+Conscientiousness (efficient/organized vs. easy-going/careless). A tendency to be organized and
+dependable, show self-discipline, act dutifully, aim for achievement, and prefer planned rather than
+spontaneous behavior.
+Extraversion (outgoing/energetic vs. solitary/reserved). Energy, positive emotions, surgency, assertiveness,
+sociability and the tendency to seek stimulation in the company of others, and talkativeness.
+Extraversion is “the act, state, or habit of being predominantly concerned with obtaining gratification
+2
+from what is outside the self” Introversion is “the state of or tendency toward being wholly or
+predominantly concerned with and interested in one’s own mental life”. An ambivert is moderately
+comfortable with groups and social interaction, but also relishes time alone, away from a crowd.
+Extravert (outgoing/energetic) 5 points +1 modifier on -1 modifier on solitary tasks Ambivert
+(outgoing/reserved) 0 points no modifiers Introvert (solitary/reserved) -5 -1 modifier on social
+encounters +1 modifier on solitary tasks
+Agreeableness (friendly/compassionate vs. analytical/detached). A tendency to be compassionate
+and cooperative rather than suspicious and antagonistic towards others. It is also a measure of one’s
+trusting and helpful nature, and whether a person is generally well tempered or not.
+Compasionate (Friendly and Compassionate) 10 points +2 modifier to charisma based skills Cooperative
+(Friendly) 5 points +1 modifier to charisma based skills Neutral (Friendly and Analytical) 0
+points no modifier Suspicious (Analytical) -5 points -1 modifier to charisma based skills Antagonistic
+(Analytical and Detached) -10 points -2 modifier to charisma based skills
+Neuroticism (sensitive/nervous vs. secure/confident). The tendency to experience unpleasant emotions
+easily, such as anger, anxiety, depression, and vulnerability. Neuroticism also refers to the degree
+of emotional stability and impulse control and is sometimes referred to by its low pole, “emotional
+stability”.
+Extreme Neuroticism (Sensitive and Nervous) -10 points -2 to perception based skills Neuroticism
+(Sensitive or nervous) -5 points -1 to perception based skills Neutral 0 points no modifier
+Emotionaly Stable 0 points no modifier
+Strong Bones
+High Pain Tolerance
+Echolocation
+Catfall
+Code of Honor Every code of honor is different, It is up to the Player and Game Master to
+determine the exact wording of a given code of honor. The code of honor must be written on the
+character sheet. General Code of honor -5 points -1 to perform any action that would violate the
+Code of Honor +1 perform any action that would be required by the Code of Honor Strict Code of
+Honor -10 points -2 to perform any action that would violate the Code of Honor +2 perform any
+action that would be required by the Code of Honor
+Combat Reflexes
+Compulsive
+Danger Sense
+Defensive Training
+Delusions
+Dutiful
+Empathy
+Fearless
+Flexibility
+Gluttony
+Greed
+Hearing
+3
+Honesty
+Integrity
+Language Talent
+Luck
+Madcap
+Manic
+Pain Threshold
+Peaceability
+Pedantic
+Perceptive
+Resistance
+Talent
+Temperament
+Vision
+Vow
+4
+Skill List
+See “Oddities and Skills” in the “Attribution Index” for definition sources.
+Acrobatics (RFX) The performance of extraordinary feats of balance, agility, and motor coordination.
+Diving, walking on a tightrope, swinging on a trapeze, etc.
+Acting (CHA) The work of an actor or actress, which is a person in theatre, television, film, or
+any other storytelling medium who tells the story by portraying a character and, usually, speaking or
+singing the written text or play.
+Animal Handling (PER) Animal handling refers to teaching animals specific responses to specific
+conditions or stimuli. Training may be for purposes such as companionship, detection, protection,
+and entertainment.
+Area Knowledge (PER) Familiarity with a given locale’s persons, places, politics, events, and
+special interest items. Generally a character has Area Knowledge of their town, base, station, etc.
+Armor Proficiency (Varies) Familiarity and understanding of a given class of armor. Clothing
+does not count as armor, so does not require this skill. Must take at least one of the following to use
+armor:
+• Light Armor (DEX): Armors made with hide or leather that may or may not be studded or
+plated with metals. Scale and chain armor fall under Light armor.
+• Heavy Armor (STR): Armors made with iron, steel, and other heavy materials.
+Armory/TL (RFX) The ability to build, modify, and repair specific types of weapons or armor.
+A successful roll lets you identify a problem, if not obvious; second roll enables you to repair it.
+Requires time (as set by GM and/or game world).
+Brawling (LFT) Basic unarmed, untrained combat.
+• Punch: Roll against Brawling
+• Kick: Roll against Brawling - 2
+Carousing (CHA) To engage in a noisy or drunken social gathering. Often, this is used as an
+information gathering tactic or for distraction.
+• Under the right circumstances, gives a +2 bonus to Charisma on information request, for aid,
+or general reaction.
+• A failed roll means you have made yourself a fool in some way, and receive a -2 to Charisma on
+a reaction roll made by those you caroused with.
+Climbing (RFX) To ascend; rise; to go up. To get to the top of something by scaling it, using
+hands and feet, or feet only.
+Computer Operation/TL (PER) The ability to use computers to find useful data, run programs,
+play games, etc. Characters that interact with computers will generally have this skill.
+Computer Programming/TL (PER) The ability to write and debug computer code. Roll to
+write, debug, or reverse-engineer a program.
+Crewman/TL (PER) The ability to serve as a crew member aboard a large vehicle. This includes
+familiarity with living aboard a ship, knowledge of safety procedures, and training in damage control.
+Criminology/TL (PER) The scientific study of the nature, extent, management, causes, control,
+consequences, and prevention of criminal behavior, both on the individual and social levels.
+5
+Diagnosis/TL (PER) Diagnosis is the identification of the nature and cause of a certain phenomenon.
+Diagnosis is used in many different disciplines with variations in the use of logics, analytics,
+and experience to determine “cause and effect”.
+• May not give exact problem or cause, but rules out impossibilities and other hints.
+Disguise/TL (CHA) A disguise can be anything which conceals or changes a person’s physical
+appearance. Camouflage is a type of disguise for people, animals and objects. A good disguise
+requires a disguise roll and 30-60 minutes of uninterrupted preparation.
+• Costume: Changing an appearance through use of wigs, hats, glasses, makeup, plastic surgery,
+and/or make-up.
+• Camouflage: The use of any combination of materials, coloration or illumination for concealment.
+There are two forms:
+– Crypsis: Making animals or objects hard to see.
+– Mimesis: Disguising something as something else.
+Electronics Operation/TL (PER) The ability to use electronic equipment. Make a skill role in
+an emergency situation or for unusual use of equipment.
+Electronics Repair/TL (PER) The ability to diagnose and repair known types of electronics
+equipment.
+Engineer/TL (PER) Apply scientific knowledge, mathematics, and ingenuity to develop solutions
+for technical, societal and commercial problems. There are a multitude of types of engineering. A
+successful roll lets you design a new system, diagnose a glitch, identify the purpose of a strange
+device, or improvise a gadget to solve a problem. Here are three large, topical categories:
+• Mechanical Engineering: Construction and use of machines (engines, robots, etc.)
+• Electronics Engineering: Construction and use of electroncis (control systems, computers,
+telecommunication, signal processing, etc)
+• Civil engineering (roads, buildings, etc.)
+Environmental Suit/TL (RFX) An environmental suit is a suit designed specifically for a
+particular environment, usually one otherwise hostile to humans.
+• Battle suit/TL: Powered battle armour and exoskeletons.
+• Diving suit/TL: Hard diving suits.
+• Hazmat suit/TL: Hazardous materials gear.
+• Space suit/TL: Space suits.
+Escape (RFX) To get free, to free oneself, or to otherwise avoid capture. Roll to attempt sliping out
+of ropes, handcuffs, or other binding items. First attempt to escape takes 1 minute; each subsequent
+attempt takes 10 minutes.
+Explosives/TL (PER) Knowledge and experience in working with explosives and incendiaries.
+This includes the ability to set up, disarm, and dispose of bombs and other explosives.
+First Aid/TL (PER) The assistance given to any person suffering a sudden illness or injury, with
+care provided to preserve life, prevent the condition from worsening, and/or promote recovery. This
+skill allows a character to mediate damage until professional medical care is available.
+6
+Foraging (RFX) Foraging is searching for wild food resources. It affects an animal’s fitness because
+it plays an important role in an animal’s ability to survive and reproduce. For urban foraging, see:
+Scrounging.
+Forgery/TL (PER) Forgery is the process of making, adapting, or imitating objects, statistics, or
+documents with the intent to deceive or earn profit by selling the forged item. Make a Forgery roll
+each time forged item is inspected, unless you roll a critical success on your first attempt. Failure
+results in someone identifying item as a forgery.
+Gambling (CHA) Gambling is the wagering of money or something of material value on an event
+with an uncertain outcome with the primary intent of winning additional money and/or material
+goods. A successful Gambling roll tells you if your game is rigged, identify fellow gamblers in a group
+of strangers, “estimates” odds in a difficult situation, etc.
+Hiking (SPD) To walk (or march) great distances, generally through rurla areas. This can be done
+as exercise, for pleasure, military training, or even job hunting. Making a successful Hiking roll before
+each days’ march increases travel distance by 20%.
+Humanities (PER) The study of “humanity” or “arts” subjects. Each subject is its own skill
+(Linguistics, Anthropology, Literary Science, Theology).
+Influence Skills (Varies) There are many ways to influence another. Each way is a separate skill.
+Successful Influence rolls result in a positive reaction from an NPC. Failure results in a negative
+reaction. Methods of Influence include:
+• Diplomacy (PER): Managing negotiations, handling people, etc., so that there is little or no ill
+will. Defaults a +6 to your target number on success.
+• Fast Talk (PER): Lying and deceit. Defaults a +5 to your target number on success.
+• Intimidation (PER): Threats and violence. Apply size modifier to target number. Defaults a
++5 to your target number on success. (See: Combat - Size modifier table)
+• Savoir Faire (PER): Manners and etiquette, mainly useful in “high society” situations. Defaults
+a +4 to your target number on success.
+• Sex Appeal (CHA): Vamping and seduction, usually of the opposite sex. Defaults a +3 to your
+target number on success.
+• Streetwise (PER): Contacts and (usually) subtle intimidation. Only useful in “street” and
+criminal situations. Defaults a +5 to your target number on success.
+Interrogation (PER) The skill in questioning with the goal of eliciting useful information, usually
+of a suspected guilty party.
+Item Concealment (PER) The ability to skillfully conceal items on your person or on other people
+(usually with the cooperation). An item’s size and shape govern it’s concealability, from +4 to your
+roll for a BB-sized jewel or a postage stamp, to a -6 to your roll for a crossbow or heavy sniper rifle.
+Jumping (RFX) To propel oneself rapidly upward, downward and/or in any horizontal direction
+such that momentum causes the body to become airborne.
+Martial Arts (RFX) The ability to defend oneself using punching, kicking, knee strikes, elbow
+strikes and open hand techniques. This skill gives you the ability to perform vital point strikes
+against another.
+Law (PER) The understanding of principles and regulations established through social institutions
+to govern behavior. This includes legislation, degrees, regulations, binding judgements, and contracts.
+Leadership (PER) The ability to enlist the aid and support of others in the accomplishment of a
+common task, through social influence. Add Leadership modifier to all rolls where you are guiding or
+directing a group.
+7
+Lockpicking/TL (PER) The craft of unlocking a lock by analyzing and manipulating the components
+of the lock device without the original key.
+Mathematics/TL (PER) The ability to read, write, and complete mathematical equations beyond
+the basic addition, subtraction, multiplication and division.
+Mechanic/TL (PER) The ability to effectively maintain and repair machinery, moters, etc.
+Melee Weapons (RFX/Varies) The ability to use close-combat hand weapons, such as knives,
+swords, axes, polearms, etc. Each weapon type must be taken as a specialty.
+Mercantile (PER) The ability to effectively buy and sell commodities for profit.
+Missile Weapon (RFX/Varies) The ability to use ranged weaponry, such as bows, javelins, slings,
+darts, firearms, etc. Each weapon type must be taken as a specialty.
+Natural Sciences/TL (PER) The ability to understand and figure out the natural world through
+scientific methods. Each field must be taken as its own skill (Astronomy, Biology, Chemistry, Earth
+sciences, Physics).
+Naturalist (PER) The study or expertise in natural history, such as Zoologist or Botanist.
+Navigation/TL (PER) Navigation is a field of study that focuses on the process of monitoring and
+controlling the movement of a craft or vehicle from one place to another. Navigation includes four
+general categories: land navigation, marine navigation, aeronautic navigation, and space navigation.
+Each category can be taken as a specialty.
+Observation (PER) Observation is the active acquisition of information from a primary source
+(i.e. watching, listening to), such as through personal senses or use of instruments, for a scientific or
+specialized purpose. Can specialize into two types:
+• Personal: Skilled at effectively observing with one’s own senses.
+• Instrumental: Skilled at effectively utilizing observation instruments and accompanying data
+storage (if any).
+Occultism (PER) The belief and/or study of the supernatural, secret, or mysterious agencies. Can
+be taken as a belief or knowledge skill.
+• Belief : You believe that the supernatural is real and that there are mysteries we should (or
+shouldn’t) try to understand and/or control.
+• Study of : You are keenly interested in the occult and are skilled in the research and study of
+the supernatural (and/or its believers).
+Physician/TL (PER) The ability to perform general healing, like a person in general medical
+practice.
+Pickpocket (RFX) The art of stealing items from the pockets of people, as in crowded public
+areas.
+• Reverse Pickpocket: Can be taken as Reverse Pickpocket to gain the art of putting items into
+the pockets of people in crowded, public areas.
+Public Speaking (PER) The process and act of speaking or giving a lecture to a group of people
+in a structured, deliberate manner intended to inform, influence, or entertain a listening audience.
+Research/TL (PER) Diligent and systematic inquiry or investigation into a subject in order to
+discover or revise facts, theories, applications, etc. If another research-based skill (like Study of
+Occultism) is used, add this modifier bonus to your roll.
+8
+Riding (RFX) The act of a person or thing that rides. Can be taken as a specialty e.g. Horse
+Riding, Motorcycle Riding.
+Scrounging (PER) To hunt about, especially for something of nominal value; to scavenge or glean.
+Generally used as the urban equivalent of Foraging.
+Search (PER) To explore or examine carefully in order to find or discover a person, place, or object.
+Shadowing (PER) The art of following a person (or other intelligent creature) about secretly, in
+order to keep watch over his movements.
+Shield (RFX) The ability to effectively protect oneself or another with, or as if with, a shield.
+Social Sciences (PER) The use of Natural Sciences as tools for understanding society so as to
+define it in a more strict sense.
+Smuggling (PER) The skill in effectively importing or exporting goods secretly, in violation of the
+law, especially without payment of legal duty.
+Stealth (RFX) The knowledge and application of secret, clandestine, or surreptitious procedure; to
+hide/be hidden, socially or physically.
+Surgeon/TL (PER) One who performs surgery; a doctor who performs operations on people or
+animals (each is its own skill).
+Survival (PER) The skill of staying alive under adverse and/or unusual circumstances.
+Swimming (SPD) To move through the water (or other liquid-like surface), without touching the
+bottom; to propel oneself in water by natural means.
+Tactics (PER) The ability to come up with and execute a conceptual action implemented as one
+or more specific tasks. Can be specialized into business, sports, military, etc.
+Throwing (RFX) The ability to effectively propel or cast in any way, especially to project or propel
+from the hand by a sudden forward motion or straightening of the arm and wrist.
+Thrown Weapon (RFX) The ability to use weapons such as shuriken, atlatl, dart, and chakram,
+as well as use of close-combat hand weapons, such as knives and axes, in a matter to which they
+become ranged weaponry. Each weapon type must be taken as a speciality.
+Tracking (PER) The skill in pursuing creatures and people until caught or captured. Can be
+specialized into hunting, scouting, etc.
+Traps/TL (PER) The art and ability to create and use any device, idea, or trick, in the hopes of
+catching an unaware person or creature.
+Vehicle Skills (RFX/Varies) The ability to use motor vehicles. Each vehicle type must be taken
+as its own skill (Car, Armored Vehicle, Helicopter, Airplane, etc).
+Writing (PER) The ability to trace or form (characters, letters, words, etc.) on the surface of some
+material, as with a pen, pencil, or other instrument or means.
+9
+Armor
+Armor Resistance Tables are used for creation of armor items. Armor in use should include the
+resistence numbers as attributes of the item itself, as deterimed by the tables below. This allows for
+Game Master and players to implement advanced mechanics, like wear and tear, to equipment.
+Resistance Modifier Types
+Material Modifier Bludgeoning Slashing Piercing Ballistic Mass
+----------------------------------------------------------------------------
+Paper 0 0 0 0 1
+textiles 0 0 0 0 1
+Bone 1 1 1 1 2
+Leather 0 1 1 0 2
+copper 0 2 2 0 3
+bronze 1 2 3 0 3
+aluminum 2 1 2 0 2
+Iron 1 3 3 1 5
+Steel 2 4 4 2 4
+Titanium 3 4 4 3 3
+Resistance Modifier Types
+Construction Modifier Bludgeoning Slashing Piercing Ballistic Mass
+----------------------------------------------------------------------------
+loosely layered 0 1 0 0 0
+tightly layered 2 3 1 4 1
+hardened 1 1 1 0 0
+ring 1 3 1 0 0
+Scale 3 4 2 2 1
+weave 0 5 1 1 2
+plate 4 5 5 1 3
+composite 5 4 6 3 2
+10
+Weapons
+Note: When Attribute is listed, use that Attribute’s modifier.
+Damage Types Reference
+B = Bludgeon
+S = Slash
+P = Pierce
+E = Energy
+RB = Range/reach Bludgeon
+RS = Range/reache Slash
+Damage with an "/" means "this or that": B/P is Bludgeon or Pierce, depending on how it was used.
+Melee Weapons
+Melee Weapons Concealability S M L E Parry Damage Weight
+----------------------------------------------------------------------------------------------
+Club 5 0-6ft 7ft 8ft 9ft STR+RB
+Staff 2 3-6ft 7ft 8ft 9ft STR+RB
+Pole Arm 2 3-6ft 7ft 8ft 9ft STR+RB/P
+Flail 5 3-6ft 7ft 8ft 9ft STR+1B
+Knife 6 0-6ft 7ft 8ft 9ft 0 STR+1P
+Spike 6 0-6ft 7ft 8ft 9ft 0 STR+1P
+One-handed Sword 4 0-6ft 7ft 8ft 9ft STR+1S/P
+Hand and a half Sword 2 3-9ft 10ft 11ft 12ft 1 STR+2S/P
+Two-handed Sword 0 6-12ft 13ft 14ft 15ft 0 STR+3S/P
+Hand Axe 5 0-6ft 7ft 8ft 9ft 0 STR+RS
+Two-handed Axe 2 3-9ft 10ft 11ft 12ft 0 STR+2S
+Fencing Foil 4 3-6ft 7ft 8ft 9ft 2 STR+2P
+Projectile Weapons
+Projectile Weapons Concealability S M L E Damage Weight
+--------------------------------------------------------------------------------------
+Dart 9 3-30ft 50ft 60ft 65ft STR P
+Throwing Knife 9 3-30ft 50ft 60ft 65ft STR+1P
+Throwing Axe 6 0-15ft 35ft 40ft 45ft STR+1S
+Bow 2 0-40ft 60ft 80ft 85ft STR+3P
+Crossbow 2 0-50ft 70ft 90ft 95ft 3
+Sling 11 0-20ft 40ft 50ft 55ft DEX+1
+Atlatl 1 0-35ft 55ft 65ft 70ft STR+2
+Spear 2 0-20ft 40ft 50ft 55ft STR+2
+Rock 6 STR*5 STR*5+1 STR*5+2 STR*5+3 STR
+Ballistic Weapons
+Ballistic Weapons Concealability S M L E Damage Weight
+--------------------------------------------------------------------------------------
+Pistol 7 0yd 25yd 75yd 100yd 1
+11
+Shotgun 3 0yd 25yd 75yd 100yd 7
+Sub-machine Gun 5 0yd 25yd 75yd 100yd 2
+Light Machine Gun 0 0yd 75yd 125yd 150yd 3
+Assault Rifle 2 0yd 175yd 225yd 250yd 3
+Sporting/Sniper Rifle 1 0yd 325yd 375yd 400yd 6
+Explosives
+Explosives Concealability S M L E Damage Weight
+--------------------------------------------------------------------------------------
+Grenade 6 STR*5 STR*5+1 STR*5+2 STR*5+3 7
+12
+Skill & Oddity Attribution
+The following skill and oddity definitions are licensed under Creative Commons Attribution-ShareAlike
+3.0 Unported and taken from Wikipedia:
+Acting, Acrobatics, Animal Handling, Carousing, Climbing, Diagnosis, Disguise, Camouflage, Engineer,
+Environmental Suit, Escape, First aid, Foraging, Forgery, Hiking, Interrogation, Jumping, Law,
+Leadership, Lockpicking, Navigation, Occult, Occultism, Scrounging, Tactics, Surgeon, Swimming,
+13
